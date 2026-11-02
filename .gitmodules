@@ -1,0 +1,3 @@
+[submodule "frontend-sample-app"]
+	path = frontend-sample-app
+	url = https://github.com/alexarenasf/frontend-sample-app
